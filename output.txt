@@ -1,0 +1,50 @@
+LEXEMES      TOKENS
+
+IDENTIFIER = ! Find the largest value between two numbers!
+KEYWORD    = int
+IDENTIFIER = num1
+SEPARATOR  = ,
+DIGIT      = 
+IDENTIFIER = num2$
+SEPARATOR  = ,
+DIGIT      = 
+IDENTIFIER = large_num
+DIGIT      = 
+SEPARATOR  = ;
+DIGIT      = 
+KEYWORD    = if
+SEPARATOR  = (
+IDENTIFIER = num1
+DIGIT      = 
+OPERATOR   = >
+DIGIT      = 
+IDENTIFIER = num2$
+SEPARATOR  = )
+DIGIT      = 
+DIGIT      = 
+SEPARATOR  = {
+DIGIT      = 
+IDENTIFIER = 	large_num
+DIGIT      = 
+OPERATOR   = =
+DIGIT      = 
+IDENTIFIER = num1
+SEPARATOR  = ;
+DIGIT      = 
+DIGIT      = 
+SEPARATOR  = }
+DIGIT      = 
+KEYWORD    = else
+DIGIT      = 
+SEPARATOR  = {
+DIGIT      = 
+IDENTIFIER = 	large_num
+DIGIT      = 
+OPERATOR   = =
+DIGIT      = 
+IDENTIFIER = num2$
+SEPARATOR  = ;
+DIGIT      = 
+DIGIT      = 
+SEPARATOR  = }
+DIGIT      = 
